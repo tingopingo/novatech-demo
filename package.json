@@ -15,6 +15,7 @@
     "test:e2e:ui": "playwright test --ui"
   },
   "devDependencies": {
+    "@modelcontextprotocol/server-github": "^2025.4.8",
     "@playwright/test": "^1.40.0",
     "eslint": "^8.56.0",
     "prettier": "^3.2.0",
